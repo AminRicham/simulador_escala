@@ -1,0 +1,208 @@
+DEBUG:__main__:Logger Created
+DEBUG:escalonador:Tarefa adicionada
+DEBUG:escalonador:Tarefa adicionada
+DEBUG:escalonador:Tarefa adicionada
+DEBUG:escalonador:Tarefa adicionada
+INFO:tarefa:Processo Process-1 iniciado (PID: 32317)
+DEBUG:escalonador:Tarefa sleep iniciada
+DEBUG:escalonador:Tarefa sleep pausada
+INFO:tarefa:Processo Process-2 iniciado (PID: 32365)
+DEBUG:escalonador:Tarefa contador iniciada
+DEBUG:__main__:Contador: 0
+DEBUG:__main__:Contador: 1
+DEBUG:__main__:Contador: 2
+DEBUG:__main__:Contador: 3
+DEBUG:__main__:Contador: 4
+DEBUG:escalonador:Tarefa contador pausada
+INFO:tarefa:Processo Process-3 iniciado (PID: 32403)
+DEBUG:escalonador:Tarefa contas iniciada
+DEBUG:__main__:38
+DEBUG:__main__:33
+DEBUG:__main__:96
+DEBUG:__main__:25.0
+DEBUG:__main__:2
+DEBUG:escalonador:Tarefa contas pausada
+INFO:tarefa:Processo Process-4 iniciado (PID: 32421)
+DEBUG:escalonador:Tarefa status iniciada
+DEBUG:__main__:Status:Iniciando
+DEBUG:__main__:Status:Conectando
+DEBUG:__main__:Status:Carregando
+DEBUG:__main__:Status:Executando
+DEBUG:__main__:Status:Finalizando
+DEBUG:escalonador:Tarefa status pausada
+DEBUG:escalonador:Tarefa sleep voltou a rodar
+INFO:escalonador:Tarefa sleep finalizada.
+DEBUG:escalonador:Tarefa contador voltou a rodar
+DEBUG:__main__:Contador: 5
+DEBUG:__main__:Contador: 6
+DEBUG:__main__:Contador: 7
+DEBUG:__main__:Contador: 8
+DEBUG:__main__:Contador: 9
+DEBUG:escalonador:Tarefa contador pausada
+DEBUG:escalonador:Tarefa contas voltou a rodar
+DEBUG:__main__:256
+DEBUG:__main__:8.0
+DEBUG:__main__:50
+DEBUG:__main__:10.0
+DEBUG:__main__:6.28
+DEBUG:escalonador:Tarefa contas pausada
+DEBUG:escalonador:Tarefa status voltou a rodar
+INFO:escalonador:Tarefa status finalizada.
+DEBUG:escalonador:Tarefa contador voltou a rodar
+DEBUG:__main__:Contador: 10
+DEBUG:__main__:Contador: 11
+DEBUG:__main__:Contador: 12
+DEBUG:__main__:Contador: 13
+DEBUG:__main__:Contador: 14
+DEBUG:escalonador:Tarefa contador pausada
+DEBUG:escalonador:Tarefa contador voltou a rodar
+DEBUG:__main__:Contador: 15
+DEBUG:__main__:Contador: 16
+DEBUG:__main__:Contador: 17
+DEBUG:__main__:Contador: 18
+DEBUG:escalonador:Tarefa contador pausada
+DEBUG:escalonador:Tarefa contas voltou a rodar
+DEBUG:__main__:21.0
+DEBUG:__main__:10.0
+DEBUG:__main__:50.26544
+DEBUG:__main__:1
+DEBUG:__main__:0
+DEBUG:escalonador:Tarefa contas pausada
+DEBUG:escalonador:Tarefa contas voltou a rodar
+DEBUG:__main__:20
+DEBUG:__main__:4
+DEBUG:__main__:7.3890461584
+DEBUG:__main__:2.302585
+DEBUG:escalonador:Tarefa contas pausada
+DEBUG:escalonador:Tarefa contador voltou a rodar
+DEBUG:__main__:Contador: 19
+DEBUG:__main__:Contador: 20
+INFO:escalonador:Tarefa contador finalizada.
+DEBUG:escalonador:Tarefa contas voltou a rodar
+INFO:escalonador:Tarefa contas finalizada.
+DEBUG:__main__:Escalonador funcinal
+DEBUG:__main__:Logger Created
+DEBUG:escalonador:Tarefa adicionada
+DEBUG:escalonador:Tarefa adicionada
+DEBUG:escalonador:Tarefa adicionada
+DEBUG:escalonador:Tarefa adicionada
+INFO:tarefa:Processo Process-1 iniciado (PID: 33118)
+DEBUG:escalonador:Tarefa sleep iniciada
+DEBUG:escalonador:Tarefa sleep pausada
+INFO:tarefa:Processo Process-2 iniciado (PID: 33160)
+DEBUG:escalonador:Tarefa contador iniciada
+DEBUG:__main__:Contador: 0
+DEBUG:__main__:Contador: 1
+DEBUG:__main__:Contador: 2
+DEBUG:__main__:Logger Created
+DEBUG:escalonador:Tarefa adicionada
+DEBUG:escalonador:Tarefa adicionada
+DEBUG:escalonador:Tarefa adicionada
+DEBUG:escalonador:Tarefa adicionada
+INFO:tarefa:Processo Process-1 iniciado (PID: 34204)
+DEBUG:escalonador:Tarefa sleep iniciada
+DEBUG:escalonador:Tarefa sleep pausada
+INFO:tarefa:Processo Process-2 iniciado (PID: 34247)
+DEBUG:escalonador:Tarefa contador iniciada
+DEBUG:__main__:Contador: 0
+DEBUG:__main__:Contador: 1
+DEBUG:__main__:Contador: 2
+DEBUG:__main__:Contador: 3
+DEBUG:__main__:Contador: 4
+DEBUG:escalonador:Tarefa contador pausada
+INFO:tarefa:Processo Process-3 iniciado (PID: 34285)
+DEBUG:escalonador:Tarefa contas iniciada
+DEBUG:__main__:38
+DEBUG:__main__:33
+DEBUG:__main__:96
+DEBUG:__main__:25.0
+DEBUG:__main__:2
+DEBUG:escalonador:Tarefa contas pausada
+INFO:tarefa:Processo Process-4 iniciado (PID: 34303)
+DEBUG:escalonador:Tarefa status iniciada
+DEBUG:__main__:Status:Iniciando
+DEBUG:__main__:Status:Conectando
+DEBUG:__main__:Logger Created
+DEBUG:__main__:Logger Created
+DEBUG:escalonador:Tarefa adicionada
+DEBUG:escalonador:Tarefa adicionada
+DEBUG:escalonador:Tarefa adicionada
+DEBUG:escalonador:Tarefa adicionada
+INFO:tarefa:Processo Process-1 iniciado (PID: 34976)
+DEBUG:escalonador:Tarefa sleep iniciada
+DEBUG:escalonador:Tarefa sleep pausada
+INFO:tarefa:Processo Process-2 iniciado (PID: 35015)
+DEBUG:escalonador:Tarefa contador iniciada
+DEBUG:__main__:Contador: 0
+DEBUG:__main__:Contador: 1
+DEBUG:__main__:Contador: 2
+DEBUG:__main__:Contador: 3
+DEBUG:__main__:Contador: 4
+DEBUG:escalonador:Tarefa contador pausada
+INFO:tarefa:Processo Process-3 iniciado (PID: 35053)
+DEBUG:escalonador:Tarefa contas iniciada
+DEBUG:__main__:38
+DEBUG:__main__:33
+DEBUG:__main__:96
+DEBUG:__main__:25.0
+DEBUG:__main__:2
+DEBUG:escalonador:Tarefa contas pausada
+INFO:tarefa:Processo Process-4 iniciado (PID: 35072)
+DEBUG:escalonador:Tarefa status iniciada
+DEBUG:__main__:Status: Iniciando
+DEBUG:__main__:Status: Conectando
+DEBUG:__main__:Status: Carregando
+DEBUG:__main__:Status: Executando
+DEBUG:__main__:Status: Finalizando
+DEBUG:escalonador:Tarefa status pausada
+DEBUG:escalonador:Tarefa sleep voltou a rodar
+INFO:escalonador:Tarefa sleep finalizada.
+DEBUG:escalonador:Tarefa contador voltou a rodar
+DEBUG:__main__:Contador: 5
+DEBUG:__main__:Contador: 6
+DEBUG:__main__:Contador: 7
+DEBUG:__main__:Contador: 8
+DEBUG:__main__:Contador: 9
+DEBUG:escalonador:Tarefa contador pausada
+DEBUG:escalonador:Tarefa contas voltou a rodar
+DEBUG:__main__:256
+DEBUG:__main__:8.0
+DEBUG:__main__:50
+DEBUG:__main__:10.0
+DEBUG:__main__:6.28
+DEBUG:escalonador:Tarefa contas pausada
+DEBUG:escalonador:Tarefa status voltou a rodar
+INFO:escalonador:Tarefa status finalizada.
+DEBUG:escalonador:Tarefa contador voltou a rodar
+DEBUG:__main__:Contador: 10
+DEBUG:__main__:Contador: 11
+DEBUG:__main__:Contador: 12
+DEBUG:__main__:Contador: 13
+DEBUG:__main__:Contador: 14
+DEBUG:escalonador:Tarefa contador pausada
+DEBUG:escalonador:Tarefa contador voltou a rodar
+DEBUG:__main__:Contador: 15
+DEBUG:__main__:Contador: 16
+DEBUG:__main__:Contador: 17
+DEBUG:__main__:Contador: 18
+DEBUG:escalonador:Tarefa contador pausada
+DEBUG:escalonador:Tarefa contas voltou a rodar
+DEBUG:__main__:21.0
+DEBUG:__main__:10.0
+DEBUG:__main__:50.26544
+DEBUG:__main__:1
+DEBUG:__main__:0
+DEBUG:escalonador:Tarefa contas pausada
+DEBUG:escalonador:Tarefa contas voltou a rodar
+DEBUG:__main__:20
+DEBUG:__main__:4
+DEBUG:__main__:7.3890461584
+DEBUG:__main__:2.302585
+DEBUG:escalonador:Tarefa contas pausada
+DEBUG:escalonador:Tarefa contador voltou a rodar
+DEBUG:__main__:Contador: 19
+DEBUG:__main__:Contador: 20
+INFO:escalonador:Tarefa contador finalizada.
+DEBUG:escalonador:Tarefa contas voltou a rodar
+INFO:escalonador:Tarefa contas finalizada.
+DEBUG:__main__:Escalonador funcinal
