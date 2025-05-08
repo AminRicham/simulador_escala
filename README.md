@@ -19,5 +19,5 @@ Certifique-se de estar usando o **Python 3.8+** e que o sistema operacional seja
 
 ### 2. **Clonar o repositório**
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/AminRicham/simulador_escala.git
+cd simulador_escala.git
